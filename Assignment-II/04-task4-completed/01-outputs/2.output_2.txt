@@ -1,0 +1,23 @@
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.335804 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.327876 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.329584 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.327563 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.327648 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 32 
+Mean:  0.32969477 s 
+Std deviation:  0.00546389 s 
+====================================================================

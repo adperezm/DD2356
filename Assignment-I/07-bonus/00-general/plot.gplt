@@ -1,0 +1,16 @@
+set terminal pngcairo fontscale 1.0 size 600, 400  enhanced font "arial,10"
+set output 'perf.png'
+#set style data lines
+set title "error represented by yerrorbars" 
+set xlabel "Resistance [Ohm]" 
+set xrange [ * : * ] noreverse writeback
+set x2range [ * : * ] noreverse writeback
+set ylabel "Power [W]" 
+set yrange [ * : * ] noreverse writeback
+set y2range [ * : * ] noreverse writeback
+set zrange [ * : * ] noreverse writeback
+set cbrange [ * : * ] noreverse writeback
+set rrange [ * : * ] noreverse writeback
+#NO_ANIMATION = 1
+plot 'data.txt' with yerrorbars
+exit

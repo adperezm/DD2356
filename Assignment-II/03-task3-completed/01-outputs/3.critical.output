@@ -1,0 +1,416 @@
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 0.186231 
+iteration 2: crit sum= 5000335.260518, time= 0.186222 
+iteration 3: crit sum= 5000335.260518, time= 0.186228 
+iteration 4: crit sum= 5000335.260518, time= 0.186217 
+iteration 5: crit sum= 5000335.260518, time= 0.186223 
+====================================================================
+Experemintal performance stats:
+Number of threads: 1 
+Mean:  0.18622411 s 
+Std deviation:  0.00000936 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 0.611013 
+iteration 2: crit sum= 5000335.260518, time= 0.432554 
+iteration 3: crit sum= 5000335.260518, time= 0.417533 
+iteration 4: crit sum= 5000335.260518, time= 0.388826 
+iteration 5: crit sum= 5000335.260518, time= 0.381326 
+====================================================================
+Experemintal performance stats:
+Number of threads: 2 
+Mean:  0.44625040 s 
+Std deviation:  0.14736804 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260517, time= 0.700603 
+iteration 2: crit sum= 5000335.260517, time= 0.813448 
+iteration 3: crit sum= 5000335.260517, time= 0.779434 
+iteration 4: crit sum= 5000335.260517, time= 0.858013 
+iteration 5: crit sum= 5000335.260516, time= 0.866926 
+====================================================================
+Experemintal performance stats:
+Number of threads: 3 
+Mean:  0.80368476 s 
+Std deviation:  0.11388997 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 0.884303 
+iteration 2: crit sum= 5000335.260518, time= 0.809190 
+iteration 3: crit sum= 5000335.260518, time= 0.862264 
+iteration 4: crit sum= 5000335.260518, time= 0.838195 
+iteration 5: crit sum= 5000335.260518, time= 0.859695 
+====================================================================
+Experemintal performance stats:
+Number of threads: 4 
+Mean:  0.85072944 s 
+Std deviation:  0.04836493 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 0.911982 
+iteration 2: crit sum= 5000335.260518, time= 0.904751 
+iteration 3: crit sum= 5000335.260518, time= 0.876170 
+iteration 4: crit sum= 5000335.260518, time= 0.902737 
+iteration 5: crit sum= 5000335.260518, time= 0.849575 
+====================================================================
+Experemintal performance stats:
+Number of threads: 5 
+Mean:  0.88904296 s 
+Std deviation:  0.04681465 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 0.972568 
+iteration 2: crit sum= 5000335.260518, time= 0.988649 
+iteration 3: crit sum= 5000335.260517, time= 0.961765 
+iteration 4: crit sum= 5000335.260518, time= 1.040403 
+iteration 5: crit sum= 5000335.260518, time= 0.970414 
+====================================================================
+Experemintal performance stats:
+Number of threads: 6 
+Mean:  0.98675958 s 
+Std deviation:  0.04966997 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260517, time= 1.129736 
+iteration 2: crit sum= 5000335.260517, time= 1.025328 
+iteration 3: crit sum= 5000335.260517, time= 1.022204 
+iteration 4: crit sum= 5000335.260517, time= 1.068750 
+iteration 5: crit sum= 5000335.260517, time= 1.068380 
+====================================================================
+Experemintal performance stats:
+Number of threads: 7 
+Mean:  1.06287954 s 
+Std deviation:  0.06996846 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 1.106490 
+iteration 2: crit sum= 5000335.260518, time= 1.081973 
+iteration 3: crit sum= 5000335.260518, time= 1.054366 
+iteration 4: crit sum= 5000335.260518, time= 1.112912 
+iteration 5: crit sum= 5000335.260518, time= 1.081046 
+====================================================================
+Experemintal performance stats:
+Number of threads: 8 
+Mean:  1.08735744 s 
+Std deviation:  0.03996919 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 1.207164 
+iteration 2: crit sum= 5000335.260518, time= 1.145197 
+iteration 3: crit sum= 5000335.260518, time= 1.155010 
+iteration 4: crit sum= 5000335.260519, time= 1.245951 
+iteration 5: crit sum= 5000335.260518, time= 1.162156 
+====================================================================
+Experemintal performance stats:
+Number of threads: 9 
+Mean:  1.18309561 s 
+Std deviation:  0.07774647 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 1.250718 
+iteration 2: crit sum= 5000335.260518, time= 1.297116 
+iteration 3: crit sum= 5000335.260518, time= 1.282741 
+iteration 4: crit sum= 5000335.260518, time= 1.201112 
+iteration 5: crit sum= 5000335.260518, time= 1.247246 
+====================================================================
+Experemintal performance stats:
+Number of threads: 10 
+Mean:  1.25578687 s 
+Std deviation:  0.06107472 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 1.338554 
+iteration 2: crit sum= 5000335.260518, time= 1.445699 
+iteration 3: crit sum= 5000335.260518, time= 1.393030 
+iteration 4: crit sum= 5000335.260518, time= 1.422985 
+iteration 5: crit sum= 5000335.260518, time= 1.415461 
+====================================================================
+Experemintal performance stats:
+Number of threads: 11 
+Mean:  1.40314558 s 
+Std deviation:  0.06682049 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260517, time= 1.414453 
+iteration 2: crit sum= 5000335.260517, time= 1.392485 
+iteration 3: crit sum= 5000335.260517, time= 1.426900 
+iteration 4: crit sum= 5000335.260517, time= 1.424095 
+iteration 5: crit sum= 5000335.260517, time= 1.377954 
+====================================================================
+Experemintal performance stats:
+Number of threads: 12 
+Mean:  1.40717725 s 
+Std deviation:  0.03927950 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 1.546017 
+iteration 2: crit sum= 5000335.260518, time= 1.545345 
+iteration 3: crit sum= 5000335.260517, time= 1.546435 
+iteration 4: crit sum= 5000335.260517, time= 1.521342 
+iteration 5: crit sum= 5000335.260518, time= 1.529660 
+====================================================================
+Experemintal performance stats:
+Number of threads: 13 
+Mean:  1.53775971 s 
+Std deviation:  0.02192949 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 1.550020 
+iteration 2: crit sum= 5000335.260517, time= 1.630440 
+iteration 3: crit sum= 5000335.260517, time= 1.625961 
+iteration 4: crit sum= 5000335.260517, time= 1.595528 
+iteration 5: crit sum= 5000335.260517, time= 1.606180 
+====================================================================
+Experemintal performance stats:
+Number of threads: 14 
+Mean:  1.60162585 s 
+Std deviation:  0.05161204 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 1.682127 
+iteration 2: crit sum= 5000335.260518, time= 1.657668 
+iteration 3: crit sum= 5000335.260518, time= 1.680338 
+iteration 4: crit sum= 5000335.260518, time= 1.675892 
+iteration 5: crit sum= 5000335.260518, time= 1.681738 
+====================================================================
+Experemintal performance stats:
+Number of threads: 15 
+Mean:  1.67555253 s 
+Std deviation:  0.01599654 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 1.669102 
+iteration 2: crit sum= 5000335.260518, time= 1.715845 
+iteration 3: crit sum= 5000335.260518, time= 2.110484 
+iteration 4: crit sum= 5000335.260518, time= 1.682784 
+iteration 5: crit sum= 5000335.260518, time= 1.715127 
+====================================================================
+Experemintal performance stats:
+Number of threads: 16 
+Mean:  1.77866833 s 
+Std deviation:  0.29678456 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260517, time= 1.701825 
+iteration 2: crit sum= 5000335.260517, time= 1.761914 
+iteration 3: crit sum= 5000335.260517, time= 1.719023 
+iteration 4: crit sum= 5000335.260517, time= 1.709687 
+iteration 5: crit sum= 5000335.260518, time= 1.681959 
+====================================================================
+Experemintal performance stats:
+Number of threads: 17 
+Mean:  1.71488176 s 
+Std deviation:  0.04577175 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 1.788660 
+iteration 2: crit sum= 5000335.260518, time= 1.791437 
+iteration 3: crit sum= 5000335.260517, time= 1.864770 
+iteration 4: crit sum= 5000335.260518, time= 1.841180 
+iteration 5: crit sum= 5000335.260517, time= 1.864072 
+====================================================================
+Experemintal performance stats:
+Number of threads: 18 
+Mean:  1.83002363 s 
+Std deviation:  0.07151023 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 1.925658 
+iteration 2: crit sum= 5000335.260518, time= 1.984661 
+iteration 3: crit sum= 5000335.260518, time= 1.992595 
+iteration 4: crit sum= 5000335.260518, time= 2.005611 
+iteration 5: crit sum= 5000335.260518, time= 1.998045 
+====================================================================
+Experemintal performance stats:
+Number of threads: 19 
+Mean:  1.98131384 s 
+Std deviation:  0.04978027 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 2.072959 
+iteration 2: crit sum= 5000335.260518, time= 2.050650 
+iteration 3: crit sum= 5000335.260518, time= 2.141528 
+iteration 4: crit sum= 5000335.260518, time= 2.103911 
+iteration 5: crit sum= 5000335.260518, time= 2.077359 
+====================================================================
+Experemintal performance stats:
+Number of threads: 20 
+Mean:  2.08928145 s 
+Std deviation:  0.05981571 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 2.154437 
+iteration 2: crit sum= 5000335.260518, time= 2.125177 
+iteration 3: crit sum= 5000335.260518, time= 2.175023 
+iteration 4: crit sum= 5000335.260519, time= 2.158675 
+iteration 5: crit sum= 5000335.260518, time= 2.135168 
+====================================================================
+Experemintal performance stats:
+Number of threads: 21 
+Mean:  2.14969583 s 
+Std deviation:  0.03492484 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260517, time= 2.175785 
+iteration 2: crit sum= 5000335.260517, time= 2.284365 
+iteration 3: crit sum= 5000335.260517, time= 2.204419 
+iteration 4: crit sum= 5000335.260517, time= 2.222537 
+iteration 5: crit sum= 5000335.260518, time= 2.169523 
+====================================================================
+Experemintal performance stats:
+Number of threads: 22 
+Mean:  2.21132587 s 
+Std deviation:  0.07535591 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260517, time= 2.204087 
+iteration 2: crit sum= 5000335.260517, time= 2.254593 
+iteration 3: crit sum= 5000335.260517, time= 2.236185 
+iteration 4: crit sum= 5000335.260518, time= 2.217940 
+iteration 5: crit sum= 5000335.260518, time= 2.239883 
+====================================================================
+Experemintal performance stats:
+Number of threads: 23 
+Mean:  2.23053770 s 
+Std deviation:  0.03492606 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 2.351714 
+iteration 2: crit sum= 5000335.260518, time= 2.294356 
+iteration 3: crit sum= 5000335.260518, time= 2.258495 
+iteration 4: crit sum= 5000335.260518, time= 2.308711 
+iteration 5: crit sum= 5000335.260518, time= 2.330268 
+====================================================================
+Experemintal performance stats:
+Number of threads: 24 
+Mean:  2.30870884 s 
+Std deviation:  0.05775064 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 2.395000 
+iteration 2: crit sum= 5000335.260518, time= 2.424472 
+iteration 3: crit sum= 5000335.260517, time= 2.406239 
+iteration 4: crit sum= 5000335.260517, time= 2.413213 
+iteration 5: crit sum= 5000335.260517, time= 2.720420 
+====================================================================
+Experemintal performance stats:
+Number of threads: 25 
+Mean:  2.47186870 s 
+Std deviation:  0.22231135 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260517, time= 2.457266 
+iteration 2: crit sum= 5000335.260517, time= 2.382281 
+iteration 3: crit sum= 5000335.260517, time= 2.599425 
+iteration 4: crit sum= 5000335.260517, time= 2.352575 
+iteration 5: crit sum= 5000335.260517, time= 2.321699 
+====================================================================
+Experemintal performance stats:
+Number of threads: 26 
+Mean:  2.42264894 s 
+Std deviation:  0.18907528 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 2.373732 
+iteration 2: crit sum= 5000335.260518, time= 2.382122 
+iteration 3: crit sum= 5000335.260518, time= 2.409580 
+iteration 4: crit sum= 5000335.260518, time= 2.393738 
+iteration 5: crit sum= 5000335.260518, time= 2.406484 
+====================================================================
+Experemintal performance stats:
+Number of threads: 27 
+Mean:  2.39313107 s 
+Std deviation:  0.02719805 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 2.480786 
+iteration 2: crit sum= 5000335.260518, time= 2.545808 
+iteration 3: crit sum= 5000335.260518, time= 2.579523 
+iteration 4: crit sum= 5000335.260518, time= 2.512281 
+iteration 5: crit sum= 5000335.260518, time= 2.523973 
+====================================================================
+Experemintal performance stats:
+Number of threads: 28 
+Mean:  2.52847436 s 
+Std deviation:  0.06116330 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 2.544261 
+iteration 2: crit sum= 5000335.260518, time= 2.602449 
+iteration 3: crit sum= 5000335.260518, time= 2.602105 
+iteration 4: crit sum= 5000335.260518, time= 2.624073 
+iteration 5: crit sum= 5000335.260518, time= 2.560926 
+====================================================================
+Experemintal performance stats:
+Number of threads: 29 
+Mean:  2.58676295 s 
+Std deviation:  0.06112364 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 2.642792 
+iteration 2: crit sum= 5000335.260518, time= 2.628440 
+iteration 3: crit sum= 5000335.260518, time= 2.690277 
+iteration 4: crit sum= 5000335.260518, time= 2.650618 
+iteration 5: crit sum= 5000335.260518, time= 2.626223 
+====================================================================
+Experemintal performance stats:
+Number of threads: 30 
+Mean:  2.64767007 s 
+Std deviation:  0.04074559 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 2.717539 
+iteration 2: crit sum= 5000335.260518, time= 2.721401 
+iteration 3: crit sum= 5000335.260518, time= 2.760737 
+iteration 4: crit sum= 5000335.260518, time= 2.677489 
+iteration 5: crit sum= 5000335.260518, time= 2.678389 
+====================================================================
+Experemintal performance stats:
+Number of threads: 31 
+Mean:  2.71111120 s 
+Std deviation:  0.05933976 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: crit sum= 5000335.260518, time= 2.667951 
+iteration 2: crit sum= 5000335.260518, time= 2.634799 
+iteration 3: crit sum= 5000335.260518, time= 2.644411 
+iteration 4: crit sum= 5000335.260518, time= 2.663966 
+iteration 5: crit sum= 5000335.260518, time= 2.668102 
+====================================================================
+Experemintal performance stats:
+Number of threads: 32 
+Mean:  2.65584556 s 
+Std deviation:  0.02905252 s 
+====================================================================

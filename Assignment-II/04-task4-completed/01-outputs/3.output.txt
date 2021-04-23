@@ -1,0 +1,736 @@
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 5.380378 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 5.380170 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 5.380033 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 5.387017 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 5.379903 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 1 
+Mean:  5.38150013 s 
+Std deviation:  0.00493402 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 2.696681 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 2.691998 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 2.689455 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 2.690288 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 2.703168 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 2 
+Mean:  2.69431790 s 
+Std deviation:  0.01002964 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 1.799253 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 1.802671 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 1.799070 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 1.798989 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 1.799512 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 3 
+Mean:  1.79989926 s 
+Std deviation:  0.00247955 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 1.374429 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 1.359553 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 1.358908 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 1.358203 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 1.359317 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 4 
+Mean:  1.36208213 s 
+Std deviation:  0.01104380 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 1.142299 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 1.142304 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 1.144129 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 1.148136 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 1.149666 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 5 
+Mean:  1.14530681 s 
+Std deviation:  0.00643013 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.965123 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.957672 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.961208 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.964968 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.957792 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 6 
+Mean:  0.96135256 s 
+Std deviation:  0.00660618 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.846389 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.846242 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.871810 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.843818 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.841807 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 7 
+Mean:  0.85001296 s 
+Std deviation:  0.01949575 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.753188 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.741032 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.739967 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.740334 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.739395 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 8 
+Mean:  0.74278325 s 
+Std deviation:  0.00930651 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.674421 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.674847 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.674355 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.674390 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.678657 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 9 
+Mean:  0.67533385 s 
+Std deviation:  0.00297202 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.621808 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.611370 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.611162 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.611039 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.611578 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 10 
+Mean:  0.61339154 s 
+Std deviation:  0.00752795 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.569564 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.569485 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.571552 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.574048 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.571762 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 11 
+Mean:  0.57128223 s 
+Std deviation:  0.00314441 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.534101 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.526370 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.526269 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.526430 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.525590 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 12 
+Mean:  0.52775213 s 
+Std deviation:  0.00567820 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.498770 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.498614 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.498675 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.498599 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.500089 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 13 
+Mean:  0.49894941 s 
+Std deviation:  0.00101934 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.466082 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.466499 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.466326 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.466076 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.467221 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 14 
+Mean:  0.46644091 s 
+Std deviation:  0.00074936 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.450791 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.446908 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.471779 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.448052 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.450264 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 15 
+Mean:  0.45355869 s 
+Std deviation:  0.01629642 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.451013 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.421501 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.421755 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.421662 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.421839 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 16 
+Mean:  0.42755406 s 
+Std deviation:  0.02098212 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.408858 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.408844 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.408811 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.408806 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.408863 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 17 
+Mean:  0.40883646 s 
+Std deviation:  0.00004946 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.387837 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.386341 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.387447 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.386417 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.386465 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 18 
+Mean:  0.38690133 s 
+Std deviation:  0.00132477 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.366347 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.366254 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.366079 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.366054 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.366187 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 19 
+Mean:  0.36618430 s 
+Std deviation:  0.00021067 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.347394 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.374899 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.346905 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.346835 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.346137 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 20 
+Mean:  0.35243393 s 
+Std deviation:  0.02009343 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.330323 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.330722 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.330693 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.330725 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.330746 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 21 
+Mean:  0.33064160 s 
+Std deviation:  0.00028505 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.315518 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.315511 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.315689 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.315733 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.315308 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 22 
+Mean:  0.31555169 s 
+Std deviation:  0.00028477 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.301907 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.301773 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.301621 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.301760 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.301716 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 23 
+Mean:  0.30175538 s 
+Std deviation:  0.00015485 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.288776 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.288872 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.292630 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.289052 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.288858 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 24 
+Mean:  0.28963746 s 
+Std deviation:  0.00267629 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.277621 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.277544 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.277532 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.277514 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.277631 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 25 
+Mean:  0.27756814 s 
+Std deviation:  0.00010277 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.267234 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.303510 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.267175 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.267154 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.267161 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 26 
+Mean:  0.27444674 s 
+Std deviation:  0.02599456 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.257452 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.257136 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.260220 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.257453 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.257532 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 27 
+Mean:  0.25795881 s 
+Std deviation:  0.00202253 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.248542 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.276412 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.248174 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.248122 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.248495 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 28 
+Mean:  0.25394899 s 
+Std deviation:  0.02009142 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.239517 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.239409 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.239351 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.239460 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.239466 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 29 
+Mean:  0.23944066 s 
+Std deviation:  0.00010840 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.233919 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.273820 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.232007 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.231852 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.237995 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 30 
+Mean:  0.24191837 s 
+Std deviation:  0.02853324 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.224669 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.224150 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.224251 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.224489 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.224278 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 31 
+Mean:  0.22436738 s 
+Std deviation:  0.00037861 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+DFTW calculation with N = 10000 
+Iteration 0: DFTW computation in 0.302343 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 1: DFTW computation in 0.268743 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 2: DFTW computation in 0.217540 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 3: DFTW computation in 0.221644 seconds
+Xre[0] = 10000.000000 
+DFTW calculation with N = 10000 
+Iteration 4: DFTW computation in 0.217545 seconds
+Xre[0] = 10000.000000 
+====================================================================
+Experemintal performance stats:
+Number of threads: 32 
+Mean:  0.24556296 s 
+Std deviation:  0.07151823 s 
+====================================================================
