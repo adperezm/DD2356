@@ -1,0 +1,13 @@
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 417302.014252, time= 0.031779 
+iteration 2: omp sum= 426585.843711, time= 0.030049 
+iteration 3: omp sum= 403882.541677, time= 0.030033 
+iteration 4: omp sum= 409044.414155, time= 0.030062 
+iteration 5: omp sum= 359423.689598, time= 0.029790 
+====================================================================
+Experemintal performance stats:
+Number of threads: 32 
+Mean:  0.03034267 s 
+Std deviation:  0.00128445 s 
+====================================================================

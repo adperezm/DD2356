@@ -1,0 +1,416 @@
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.032551 
+iteration 2: padded local sum= 5000335.260518, time= 0.032549 
+iteration 3: padded local sum= 5000335.260518, time= 0.032538 
+iteration 4: padded local sum= 5000335.260518, time= 0.032559 
+iteration 5: padded local sum= 5000335.260518, time= 0.032547 
+====================================================================
+Experemintal performance stats:
+Number of threads: 1 
+Mean:  0.03254870 s 
+Std deviation:  0.00001092 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.016450 
+iteration 2: padded local sum= 5000335.260518, time= 0.016294 
+iteration 3: padded local sum= 5000335.260518, time= 0.016290 
+iteration 4: padded local sum= 5000335.260518, time= 0.016292 
+iteration 5: padded local sum= 5000335.260518, time= 0.016310 
+====================================================================
+Experemintal performance stats:
+Number of threads: 2 
+Mean:  0.01632705 s 
+Std deviation:  0.00011015 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.010941 
+iteration 2: padded local sum= 5000335.260518, time= 0.010866 
+iteration 3: padded local sum= 5000335.260518, time= 0.010884 
+iteration 4: padded local sum= 5000335.260518, time= 0.010887 
+iteration 5: padded local sum= 5000335.260518, time= 0.010882 
+====================================================================
+Experemintal performance stats:
+Number of threads: 3 
+Mean:  0.01089227 s 
+Std deviation:  0.00004403 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.008262 
+iteration 2: padded local sum= 5000335.260518, time= 0.008168 
+iteration 3: padded local sum= 5000335.260518, time= 0.008176 
+iteration 4: padded local sum= 5000335.260518, time= 0.008170 
+iteration 5: padded local sum= 5000335.260518, time= 0.008172 
+====================================================================
+Experemintal performance stats:
+Number of threads: 4 
+Mean:  0.00818963 s 
+Std deviation:  0.00006506 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.006606 
+iteration 2: padded local sum= 5000335.260518, time= 0.006556 
+iteration 3: padded local sum= 5000335.260518, time= 0.006556 
+iteration 4: padded local sum= 5000335.260518, time= 0.006536 
+iteration 5: padded local sum= 5000335.260518, time= 0.006553 
+====================================================================
+Experemintal performance stats:
+Number of threads: 5 
+Mean:  0.00656120 s 
+Std deviation:  0.00004005 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.005523 
+iteration 2: padded local sum= 5000335.260518, time= 0.005481 
+iteration 3: padded local sum= 5000335.260518, time= 0.005464 
+iteration 4: padded local sum= 5000335.260518, time= 0.005464 
+iteration 5: padded local sum= 5000335.260518, time= 0.005473 
+====================================================================
+Experemintal performance stats:
+Number of threads: 6 
+Mean:  0.00548092 s 
+Std deviation:  0.00003731 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.004759 
+iteration 2: padded local sum= 5000335.260518, time= 0.004689 
+iteration 3: padded local sum= 5000335.260518, time= 0.004689 
+iteration 4: padded local sum= 5000335.260518, time= 0.004712 
+iteration 5: padded local sum= 5000335.260518, time= 0.004735 
+====================================================================
+Experemintal performance stats:
+Number of threads: 7 
+Mean:  0.00471667 s 
+Std deviation:  0.00005396 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.004182 
+iteration 2: padded local sum= 5000335.260518, time= 0.004082 
+iteration 3: padded local sum= 5000335.260518, time= 0.004089 
+iteration 4: padded local sum= 5000335.260518, time= 0.004084 
+iteration 5: padded local sum= 5000335.260518, time= 0.004086 
+====================================================================
+Experemintal performance stats:
+Number of threads: 8 
+Mean:  0.00410477 s 
+Std deviation:  0.00006927 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.003666 
+iteration 2: padded local sum= 5000335.260518, time= 0.003635 
+iteration 3: padded local sum= 5000335.260518, time= 0.003630 
+iteration 4: padded local sum= 5000335.260518, time= 0.003630 
+iteration 5: padded local sum= 5000335.260518, time= 0.003614 
+====================================================================
+Experemintal performance stats:
+Number of threads: 9 
+Mean:  0.00363495 s 
+Std deviation:  0.00002789 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.003307 
+iteration 2: padded local sum= 5000335.260518, time= 0.003261 
+iteration 3: padded local sum= 5000335.260518, time= 0.003264 
+iteration 4: padded local sum= 5000335.260518, time= 0.003264 
+iteration 5: padded local sum= 5000335.260518, time= 0.003265 
+====================================================================
+Experemintal performance stats:
+Number of threads: 10 
+Mean:  0.00327222 s 
+Std deviation:  0.00003133 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002987 
+iteration 2: padded local sum= 5000335.260518, time= 0.002962 
+iteration 3: padded local sum= 5000335.260518, time= 0.002960 
+iteration 4: padded local sum= 5000335.260518, time= 0.002963 
+iteration 5: padded local sum= 5000335.260518, time= 0.002948 
+====================================================================
+Experemintal performance stats:
+Number of threads: 11 
+Mean:  0.00296403 s 
+Std deviation:  0.00002080 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002756 
+iteration 2: padded local sum= 5000335.260518, time= 0.002719 
+iteration 3: padded local sum= 5000335.260518, time= 0.002705 
+iteration 4: padded local sum= 5000335.260518, time= 0.002716 
+iteration 5: padded local sum= 5000335.260518, time= 0.002723 
+====================================================================
+Experemintal performance stats:
+Number of threads: 12 
+Mean:  0.00272397 s 
+Std deviation:  0.00002909 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002561 
+iteration 2: padded local sum= 5000335.260518, time= 0.002517 
+iteration 3: padded local sum= 5000335.260518, time= 0.002527 
+iteration 4: padded local sum= 5000335.260518, time= 0.002512 
+iteration 5: padded local sum= 5000335.260518, time= 0.002553 
+====================================================================
+Experemintal performance stats:
+Number of threads: 13 
+Mean:  0.00253398 s 
+Std deviation:  0.00004113 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002404 
+iteration 2: padded local sum= 5000335.260518, time= 0.002349 
+iteration 3: padded local sum= 5000335.260518, time= 0.002363 
+iteration 4: padded local sum= 5000335.260518, time= 0.002345 
+iteration 5: padded local sum= 5000335.260518, time= 0.002365 
+====================================================================
+Experemintal performance stats:
+Number of threads: 14 
+Mean:  0.00236517 s 
+Std deviation:  0.00003482 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002256 
+iteration 2: padded local sum= 5000335.260518, time= 0.002202 
+iteration 3: padded local sum= 5000335.260518, time= 0.002200 
+iteration 4: padded local sum= 5000335.260518, time= 0.002190 
+iteration 5: padded local sum= 5000335.260518, time= 0.002218 
+====================================================================
+Experemintal performance stats:
+Number of threads: 15 
+Mean:  0.00221347 s 
+Std deviation:  0.00004241 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002208 
+iteration 2: padded local sum= 5000335.260518, time= 0.002083 
+iteration 3: padded local sum= 5000335.260518, time= 0.002067 
+iteration 4: padded local sum= 5000335.260518, time= 0.002087 
+iteration 5: padded local sum= 5000335.260518, time= 0.002067 
+====================================================================
+Experemintal performance stats:
+Number of threads: 16 
+Mean:  0.00210238 s 
+Std deviation:  0.00009476 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002550 
+iteration 2: padded local sum= 5000335.260518, time= 0.002497 
+iteration 3: padded local sum= 5000335.260518, time= 0.002466 
+iteration 4: padded local sum= 5000335.260518, time= 0.002498 
+iteration 5: padded local sum= 5000335.260518, time= 0.002477 
+====================================================================
+Experemintal performance stats:
+Number of threads: 17 
+Mean:  0.00249773 s 
+Std deviation:  0.00004706 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.001918 
+iteration 2: padded local sum= 5000335.260518, time= 0.001847 
+iteration 3: padded local sum= 5000335.260518, time= 0.001917 
+iteration 4: padded local sum= 5000335.260518, time= 0.001846 
+iteration 5: padded local sum= 5000335.260518, time= 0.001867 
+====================================================================
+Experemintal performance stats:
+Number of threads: 18 
+Mean:  0.00187901 s 
+Std deviation:  0.00006880 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.001816 
+iteration 2: padded local sum= 5000335.260518, time= 0.001831 
+iteration 3: padded local sum= 5000335.260518, time= 0.001751 
+iteration 4: padded local sum= 5000335.260518, time= 0.001783 
+iteration 5: padded local sum= 5000335.260518, time= 0.001755 
+====================================================================
+Experemintal performance stats:
+Number of threads: 19 
+Mean:  0.00178718 s 
+Std deviation:  0.00006502 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.001838 
+iteration 2: padded local sum= 5000335.260518, time= 0.001758 
+iteration 3: padded local sum= 5000335.260518, time= 0.001673 
+iteration 4: padded local sum= 5000335.260518, time= 0.001725 
+iteration 5: padded local sum= 5000335.260518, time= 0.001674 
+====================================================================
+Experemintal performance stats:
+Number of threads: 20 
+Mean:  0.00173364 s 
+Std deviation:  0.00011453 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.001775 
+iteration 2: padded local sum= 5000335.260518, time= 0.001626 
+iteration 3: padded local sum= 5000335.260518, time= 0.001628 
+iteration 4: padded local sum= 5000335.260518, time= 0.001643 
+iteration 5: padded local sum= 5000335.260518, time= 0.001628 
+====================================================================
+Experemintal performance stats:
+Number of threads: 21 
+Mean:  0.00166013 s 
+Std deviation:  0.00010248 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.001745 
+iteration 2: padded local sum= 5000335.260518, time= 0.001591 
+iteration 3: padded local sum= 5000335.260518, time= 0.001611 
+iteration 4: padded local sum= 5000335.260518, time= 0.001582 
+iteration 5: padded local sum= 5000335.260518, time= 0.001584 
+====================================================================
+Experemintal performance stats:
+Number of threads: 22 
+Mean:  0.00162272 s 
+Std deviation:  0.00010950 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002478 
+iteration 2: padded local sum= 5000335.260518, time= 0.002417 
+iteration 3: padded local sum= 5000335.260518, time= 0.002395 
+iteration 4: padded local sum= 5000335.260518, time= 0.002423 
+iteration 5: padded local sum= 5000335.260518, time= 0.002395 
+====================================================================
+Experemintal performance stats:
+Number of threads: 23 
+Mean:  0.00242144 s 
+Std deviation:  0.00005143 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002496 
+iteration 2: padded local sum= 5000335.260518, time= 0.002438 
+iteration 3: padded local sum= 5000335.260518, time= 0.002396 
+iteration 4: padded local sum= 5000335.260518, time= 0.002431 
+iteration 5: padded local sum= 5000335.260518, time= 0.002401 
+====================================================================
+Experemintal performance stats:
+Number of threads: 24 
+Mean:  0.00243236 s 
+Std deviation:  0.00006259 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002409 
+iteration 2: padded local sum= 5000335.260518, time= 0.002349 
+iteration 3: padded local sum= 5000335.260518, time= 0.002306 
+iteration 4: padded local sum= 5000335.260518, time= 0.002337 
+iteration 5: padded local sum= 5000335.260518, time= 0.002308 
+====================================================================
+Experemintal performance stats:
+Number of threads: 25 
+Mean:  0.00234206 s 
+Std deviation:  0.00006644 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002341 
+iteration 2: padded local sum= 5000335.260518, time= 0.002261 
+iteration 3: padded local sum= 5000335.260518, time= 0.002224 
+iteration 4: padded local sum= 5000335.260518, time= 0.002251 
+iteration 5: padded local sum= 5000335.260518, time= 0.002218 
+====================================================================
+Experemintal performance stats:
+Number of threads: 26 
+Mean:  0.00225906 s 
+Std deviation:  0.00007507 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002257 
+iteration 2: padded local sum= 5000335.260518, time= 0.002174 
+iteration 3: padded local sum= 5000335.260518, time= 0.002162 
+iteration 4: padded local sum= 5000335.260518, time= 0.002168 
+iteration 5: padded local sum= 5000335.260518, time= 0.002163 
+====================================================================
+Experemintal performance stats:
+Number of threads: 27 
+Mean:  0.00218467 s 
+Std deviation:  0.00006489 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002200 
+iteration 2: padded local sum= 5000335.260518, time= 0.002086 
+iteration 3: padded local sum= 5000335.260518, time= 0.002115 
+iteration 4: padded local sum= 5000335.260518, time= 0.002077 
+iteration 5: padded local sum= 5000335.260518, time= 0.002108 
+====================================================================
+Experemintal performance stats:
+Number of threads: 28 
+Mean:  0.00211719 s 
+Std deviation:  0.00007418 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002252 
+iteration 2: padded local sum= 5000335.260518, time= 0.002201 
+iteration 3: padded local sum= 5000335.260518, time= 0.002185 
+iteration 4: padded local sum= 5000335.260518, time= 0.002203 
+iteration 5: padded local sum= 5000335.260518, time= 0.002191 
+====================================================================
+Experemintal performance stats:
+Number of threads: 29 
+Mean:  0.00220627 s 
+Std deviation:  0.00004057 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002047 
+iteration 2: padded local sum= 5000335.260518, time= 0.001990 
+iteration 3: padded local sum= 5000335.260518, time= 0.001987 
+iteration 4: padded local sum= 5000335.260518, time= 0.001995 
+iteration 5: padded local sum= 5000335.260518, time= 0.001989 
+====================================================================
+Experemintal performance stats:
+Number of threads: 30 
+Mean:  0.00200132 s 
+Std deviation:  0.00004068 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002007 
+iteration 2: padded local sum= 5000335.260518, time= 0.001927 
+iteration 3: padded local sum= 5000335.260518, time= 0.001938 
+iteration 4: padded local sum= 5000335.260518, time= 0.001949 
+iteration 5: padded local sum= 5000335.260518, time= 0.001953 
+====================================================================
+Experemintal performance stats:
+Number of threads: 31 
+Mean:  0.00195466 s 
+Std deviation:  0.00004656 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: padded local sum= 5000335.260518, time= 0.002060 
+iteration 2: padded local sum= 5000335.260518, time= 0.002046 
+iteration 3: padded local sum= 5000335.260518, time= 0.002017 
+iteration 4: padded local sum= 5000335.260518, time= 0.002049 
+iteration 5: padded local sum= 5000335.260518, time= 0.002021 
+====================================================================
+Experemintal performance stats:
+Number of threads: 32 
+Mean:  0.00203851 s 
+Std deviation:  0.00003561 s 
+====================================================================

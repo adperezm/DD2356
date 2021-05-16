@@ -1,0 +1,416 @@
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 5000335.260518, time= 0.025775 
+iteration 2: omp sum= 5000335.260518, time= 0.025799 
+iteration 3: omp sum= 5000335.260518, time= 0.025850 
+iteration 4: omp sum= 5000335.260518, time= 0.025814 
+iteration 5: omp sum= 5000335.260518, time= 0.025770 
+====================================================================
+Experemintal performance stats:
+Number of threads: 1 
+Mean:  0.02580156 s 
+Std deviation:  0.00005436 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 2559345.221958, time= 0.021355 
+iteration 2: omp sum= 2566935.913352, time= 0.021379 
+iteration 3: omp sum= 2568056.919952, time= 0.021289 
+iteration 4: omp sum= 2567147.180972, time= 0.021255 
+iteration 5: omp sum= 2563263.878751, time= 0.021355 
+====================================================================
+Experemintal performance stats:
+Number of threads: 2 
+Mean:  0.02132678 s 
+Std deviation:  0.00009749 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 1808592.582922, time= 0.021428 
+iteration 2: omp sum= 1757194.595840, time= 0.021415 
+iteration 3: omp sum= 1758371.559313, time= 0.021480 
+iteration 4: omp sum= 1752649.270450, time= 0.021499 
+iteration 5: omp sum= 1760067.294234, time= 0.021405 
+====================================================================
+Experemintal performance stats:
+Number of threads: 3 
+Mean:  0.02144535 s 
+Std deviation:  0.00007878 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 1590988.166414, time= 0.023896 
+iteration 2: omp sum= 1396059.484406, time= 0.024401 
+iteration 3: omp sum= 1445384.842794, time= 0.026243 
+iteration 4: omp sum= 1450227.448850, time= 0.026319 
+iteration 5: omp sum= 1480692.170620, time= 0.026426 
+====================================================================
+Experemintal performance stats:
+Number of threads: 4 
+Mean:  0.02545689 s 
+Std deviation:  0.00234063 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 1287070.791556, time= 0.027044 
+iteration 2: omp sum= 1343314.611624, time= 0.026832 
+iteration 3: omp sum= 1349678.154806, time= 0.026802 
+iteration 4: omp sum= 1336579.747266, time= 0.026582 
+iteration 5: omp sum= 1328828.281432, time= 0.026490 
+====================================================================
+Experemintal performance stats:
+Number of threads: 5 
+Mean:  0.02674996 s 
+Std deviation:  0.00038283 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 1036814.410376, time= 0.026895 
+iteration 2: omp sum= 1128067.453082, time= 0.026507 
+iteration 3: omp sum= 1149771.249562, time= 0.026715 
+iteration 4: omp sum= 1117652.836578, time= 0.026714 
+iteration 5: omp sum= 1112757.707963, time= 0.026491 
+====================================================================
+Experemintal performance stats:
+Number of threads: 6 
+Mean:  0.02666452 s 
+Std deviation:  0.00029585 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 910482.519155, time= 0.027094 
+iteration 2: omp sum= 749843.086658, time= 0.026489 
+iteration 3: omp sum= 869405.306336, time= 0.025501 
+iteration 4: omp sum= 900046.792797, time= 0.025422 
+iteration 5: omp sum= 851500.591507, time= 0.025536 
+====================================================================
+Experemintal performance stats:
+Number of threads: 7 
+Mean:  0.02600807 s 
+Std deviation:  0.00140083 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 844731.308299, time= 0.026372 
+iteration 2: omp sum= 852663.088373, time= 0.026171 
+iteration 3: omp sum= 873973.387027, time= 0.026197 
+iteration 4: omp sum= 850079.797434, time= 0.026363 
+iteration 5: omp sum= 840916.297192, time= 0.026110 
+====================================================================
+Experemintal performance stats:
+Number of threads: 8 
+Mean:  0.02624274 s 
+Std deviation:  0.00022304 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 762344.069646, time= 0.027013 
+iteration 2: omp sum= 733313.315416, time= 0.026822 
+iteration 3: omp sum= 777701.327595, time= 0.026906 
+iteration 4: omp sum= 795156.265654, time= 0.027189 
+iteration 5: omp sum= 798957.830336, time= 0.027049 
+====================================================================
+Experemintal performance stats:
+Number of threads: 9 
+Mean:  0.02699587 s 
+Std deviation:  0.00023613 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 671125.987034, time= 0.027955 
+iteration 2: omp sum= 668685.487124, time= 0.027492 
+iteration 3: omp sum= 638207.789910, time= 0.027771 
+iteration 4: omp sum= 607897.271401, time= 0.027456 
+iteration 5: omp sum= 592581.420596, time= 0.027281 
+====================================================================
+Experemintal performance stats:
+Number of threads: 10 
+Mean:  0.02759088 s 
+Std deviation:  0.00048653 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 658880.942669, time= 0.028307 
+iteration 2: omp sum= 625988.397827, time= 0.028209 
+iteration 3: omp sum= 596037.210311, time= 0.028283 
+iteration 4: omp sum= 599050.153844, time= 0.028209 
+iteration 5: omp sum= 627253.689869, time= 0.028181 
+====================================================================
+Experemintal performance stats:
+Number of threads: 11 
+Mean:  0.02823755 s 
+Std deviation:  0.00010203 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 527077.938551, time= 0.028974 
+iteration 2: omp sum= 551422.691419, time= 0.028950 
+iteration 3: omp sum= 535739.347720, time= 0.028931 
+iteration 4: omp sum= 605991.062759, time= 0.029047 
+iteration 5: omp sum= 550979.734316, time= 0.029095 
+====================================================================
+Experemintal performance stats:
+Number of threads: 12 
+Mean:  0.02899961 s 
+Std deviation:  0.00012833 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 492931.305689, time= 0.029008 
+iteration 2: omp sum= 507677.413716, time= 0.028913 
+iteration 3: omp sum= 504593.717830, time= 0.028944 
+iteration 4: omp sum= 528550.972218, time= 0.029204 
+iteration 5: omp sum= 512053.913968, time= 0.029274 
+====================================================================
+Experemintal performance stats:
+Number of threads: 13 
+Mean:  0.02906855 s 
+Std deviation:  0.00030486 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 479824.890323, time= 0.029801 
+iteration 2: omp sum= 476125.147088, time= 0.029577 
+iteration 3: omp sum= 477354.448447, time= 0.029689 
+iteration 4: omp sum= 495560.697643, time= 0.029702 
+iteration 5: omp sum= 506528.405976, time= 0.029574 
+====================================================================
+Experemintal performance stats:
+Number of threads: 14 
+Mean:  0.02966863 s 
+Std deviation:  0.00016646 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 472218.624881, time= 0.030073 
+iteration 2: omp sum= 443852.746069, time= 0.030146 
+iteration 3: omp sum= 489650.831608, time= 0.029948 
+iteration 4: omp sum= 479069.382171, time= 0.029981 
+iteration 5: omp sum= 466821.628382, time= 0.029953 
+====================================================================
+Experemintal performance stats:
+Number of threads: 15 
+Mean:  0.03002046 s 
+Std deviation:  0.00015966 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 422575.069467, time= 0.030541 
+iteration 2: omp sum= 418207.792815, time= 0.030309 
+iteration 3: omp sum= 417728.511379, time= 0.030365 
+iteration 4: omp sum= 422832.064876, time= 0.030297 
+iteration 5: omp sum= 428498.703298, time= 0.030294 
+====================================================================
+Experemintal performance stats:
+Number of threads: 16 
+Mean:  0.03036129 s 
+Std deviation:  0.00016425 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 392687.882037, time= 0.031108 
+iteration 2: omp sum= 387871.655601, time= 0.031068 
+iteration 3: omp sum= 577733.692811, time= 0.031189 
+iteration 4: omp sum= 546161.374045, time= 0.031266 
+iteration 5: omp sum= 550739.027278, time= 0.031266 
+====================================================================
+Experemintal performance stats:
+Number of threads: 17 
+Mean:  0.03117923 s 
+Std deviation:  0.00016300 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 487220.977129, time= 0.031897 
+iteration 2: omp sum= 347711.533089, time= 0.031764 
+iteration 3: omp sum= 351239.754008, time= 0.031756 
+iteration 4: omp sum= 349099.116859, time= 0.031761 
+iteration 5: omp sum= 361888.237485, time= 0.031926 
+====================================================================
+Experemintal performance stats:
+Number of threads: 18 
+Mean:  0.03182104 s 
+Std deviation:  0.00016259 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 345723.164186, time= 0.031680 
+iteration 2: omp sum= 351421.953988, time= 0.031544 
+iteration 3: omp sum= 346591.403560, time= 0.031651 
+iteration 4: omp sum= 362845.117634, time= 0.031594 
+iteration 5: omp sum= 322117.625185, time= 0.032118 
+====================================================================
+Experemintal performance stats:
+Number of threads: 19 
+Mean:  0.03171741 s 
+Std deviation:  0.00035837 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 331614.830757, time= 0.032267 
+iteration 2: omp sum= 323620.099595, time= 0.032157 
+iteration 3: omp sum= 316135.605878, time= 0.032123 
+iteration 4: omp sum= 311504.821435, time= 0.032176 
+iteration 5: omp sum= 333916.588136, time= 0.032152 
+====================================================================
+Experemintal performance stats:
+Number of threads: 20 
+Mean:  0.03217511 s 
+Std deviation:  0.00008296 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 315580.328994, time= 0.032122 
+iteration 2: omp sum= 321267.385144, time= 0.031964 
+iteration 3: omp sum= 310286.434053, time= 0.032103 
+iteration 4: omp sum= 330928.049085, time= 0.031896 
+iteration 5: omp sum= 313939.499984, time= 0.032008 
+====================================================================
+Experemintal performance stats:
+Number of threads: 21 
+Mean:  0.03201848 s 
+Std deviation:  0.00016810 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 322115.199832, time= 0.031970 
+iteration 2: omp sum= 314605.143344, time= 0.032427 
+iteration 3: omp sum= 284878.101304, time= 0.032354 
+iteration 4: omp sum= 283231.273138, time= 0.032321 
+iteration 5: omp sum= 296189.658986, time= 0.032332 
+====================================================================
+Experemintal performance stats:
+Number of threads: 22 
+Mean:  0.03228089 s 
+Std deviation:  0.00027811 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 304398.918299, time= 0.032299 
+iteration 2: omp sum= 291052.479487, time= 0.032291 
+iteration 3: omp sum= 304022.193510, time= 0.032302 
+iteration 4: omp sum= 303170.485278, time= 0.032238 
+iteration 5: omp sum= 301699.364981, time= 0.032361 
+====================================================================
+Experemintal performance stats:
+Number of threads: 23 
+Mean:  0.03229814 s 
+Std deviation:  0.00006012 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 266546.246708, time= 0.032243 
+iteration 2: omp sum= 277977.709336, time= 0.032371 
+iteration 3: omp sum= 254877.535031, time= 0.032716 
+iteration 4: omp sum= 272783.437807, time= 0.032522 
+iteration 5: omp sum= 267674.710979, time= 0.032435 
+====================================================================
+Experemintal performance stats:
+Number of threads: 24 
+Mean:  0.03245749 s 
+Std deviation:  0.00028888 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 255798.230323, time= 0.032633 
+iteration 2: omp sum= 256998.990105, time= 0.032614 
+iteration 3: omp sum= 262930.589197, time= 0.032532 
+iteration 4: omp sum= 264872.830170, time= 0.032586 
+iteration 5: omp sum= 258633.136530, time= 0.032578 
+====================================================================
+Experemintal performance stats:
+Number of threads: 25 
+Mean:  0.03258858 s 
+Std deviation:  0.00006275 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 254002.320230, time= 0.032652 
+iteration 2: omp sum= 257213.024184, time= 0.032698 
+iteration 3: omp sum= 245915.384461, time= 0.032670 
+iteration 4: omp sum= 263700.627720, time= 0.032573 
+iteration 5: omp sum= 276130.012475, time= 0.032496 
+====================================================================
+Experemintal performance stats:
+Number of threads: 26 
+Mean:  0.03261776 s 
+Std deviation:  0.00014933 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 256083.252185, time= 0.032490 
+iteration 2: omp sum= 254216.364706, time= 0.032513 
+iteration 3: omp sum= 254892.951925, time= 0.032509 
+iteration 4: omp sum= 241161.658654, time= 0.032605 
+iteration 5: omp sum= 247255.697533, time= 0.032558 
+====================================================================
+Experemintal performance stats:
+Number of threads: 27 
+Mean:  0.03253519 s 
+Std deviation:  0.00008334 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 244414.053016, time= 0.032591 
+iteration 2: omp sum= 252426.257218, time= 0.032381 
+iteration 3: omp sum= 248186.597630, time= 0.032509 
+iteration 4: omp sum= 244673.731171, time= 0.032489 
+iteration 5: omp sum= 241319.563367, time= 0.032495 
+====================================================================
+Experemintal performance stats:
+Number of threads: 28 
+Mean:  0.03249302 s 
+Std deviation:  0.00010335 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 249048.324224, time= 0.032293 
+iteration 2: omp sum= 226828.197936, time= 0.032406 
+iteration 3: omp sum= 261406.469004, time= 0.032440 
+iteration 4: omp sum= 244651.405130, time= 0.032358 
+iteration 5: omp sum= 231303.538944, time= 0.032491 
+====================================================================
+Experemintal performance stats:
+Number of threads: 29 
+Mean:  0.03239751 s 
+Std deviation:  0.00012896 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 227360.130834, time= 0.032555 
+iteration 2: omp sum= 228201.980997, time= 0.032576 
+iteration 3: omp sum= 226330.828991, time= 0.032599 
+iteration 4: omp sum= 230594.006601, time= 0.032376 
+iteration 5: omp sum= 230712.090587, time= 0.032311 
+====================================================================
+Experemintal performance stats:
+Number of threads: 30 
+Mean:  0.03248325 s 
+Std deviation:  0.00025029 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 341536.984403, time= 0.032724 
+iteration 2: omp sum= 347382.057087, time= 0.032789 
+iteration 3: omp sum= 329108.379206, time= 0.032930 
+iteration 4: omp sum= 336451.050408, time= 0.033228 
+iteration 5: omp sum= 346366.295354, time= 0.033095 
+====================================================================
+Experemintal performance stats:
+Number of threads: 31 
+Mean:  0.03295303 s 
+Std deviation:  0.00037220 s 
+====================================================================
+====================================================================
+Results from multiple runs:
+iteration 1: omp sum= 332287.308501, time= 0.033174 
+iteration 2: omp sum= 326454.889762, time= 0.033028 
+iteration 3: omp sum= 331291.194654, time= 0.033047 
+iteration 4: omp sum= 330463.092531, time= 0.033018 
+iteration 5: omp sum= 331610.285175, time= 0.032997 
+====================================================================
+Experemintal performance stats:
+Number of threads: 32 
+Mean:  0.03305271 s 
+Std deviation:  0.00010805 s 
+====================================================================

@@ -1,0 +1,48 @@
+ ------------------------------------
+ Running with            1  Threads
+ Solver took   15.6250000     sec
+ ------------------------------------
+ Running with            2  Threads
+ Solver took   8.25000000     sec
+ ------------------------------------
+ Running with            3  Threads
+ Solver took   5.75000000     sec
+ ------------------------------------
+ Running with            4  Threads
+ Solver took   4.37500000     sec
+ ------------------------------------
+ Running with            5  Threads
+ Solver took   3.75000000     sec
+ ------------------------------------
+ Running with            6  Threads
+ Solver took   3.25000000     sec
+ ------------------------------------
+ Running with            7  Threads
+ Solver took   2.62500000     sec
+ ------------------------------------
+ Running with            8  Threads
+ Solver took   2.50000000     sec
+ ------------------------------------
+ Running with            9  Threads
+ Solver took   2.12500000     sec
+ ------------------------------------
+ Running with           10  Threads
+ Solver took   2.00000000     sec
+ ------------------------------------
+ Running with           11  Threads
+ Solver took   1.62500000     sec
+ ------------------------------------
+ Running with           12  Threads
+ Solver took   1.62500000     sec
+ ------------------------------------
+ Running with           13  Threads
+ Solver took   1.50000000     sec
+ ------------------------------------
+ Running with           14  Threads
+ Solver took   1.37500000     sec
+ ------------------------------------
+ Running with           15  Threads
+ Solver took   1.50000000     sec
+ ------------------------------------
+ Running with           16  Threads
+ Solver took   1.25000000     sec

@@ -1,0 +1,13 @@
+====================================================================
+Results from multiple runs:
+iteration 1: serial sum= 5000335.260518, time= 0.025792 
+iteration 2: serial sum= 5000335.260518, time= 0.025712 
+iteration 3: serial sum= 5000335.260518, time= 0.025810 
+iteration 4: serial sum= 5000335.260518, time= 0.025727 
+iteration 5: serial sum= 5000335.260518, time= 0.025772 
+====================================================================
+Experemintal performance stats:
+Number of threads: 1 
+Mean:  0.02576274 s 
+Std deviation: 11181089.49519912 s 
+====================================================================

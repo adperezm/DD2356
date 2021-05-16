@@ -1,7 +1,7 @@
     // the code calculates a DFT of a random complex number input and 
     // then an IDFT. The IDFT result should be the input vector 
     // to compile with gcc
-    // gcc -Wall -O2 -fopenmp -o DFTW_omp 3.DFTW_omp.c -lm 
+    // gcc -Wall -O2 -fopenmp -o DFTW_omp 2.DFTW_omp.c -lm 
     // written by stef
 
     // exercise
@@ -34,16 +34,17 @@
 
 	int main(int argc, char* argv[]){
 	
-	//Set the max number of threads
-	int maxthreads=32;
-	
-	for(int nc=1; nc <= maxthreads;nc++)
-	{
-	omp_set_num_threads(nc);
 	
 	// Define parameters for the timer
   	int j,repeat;
   	double totaltime,mean,std_dev,*t_e;
+	
+	//Set omp variables
+	 int nc=2;
+	 omp_set_num_threads(nc);
+         int mt=omp_get_max_threads();
+         
+         
 	
 	
 	  // Start the outer loop
@@ -125,13 +126,13 @@
 	  
 	printf("====================================================================\n");
   	printf("Experemintal performance stats:\n");
-  	printf("Number of threads: %d \n", nc);
+  	printf("Number of threads: %d \n", mt);
   	printf("Mean: %11.8f s \n", mean);
   	printf("Std deviation: %11.8f s \n", std_dev);
   	printf("====================================================================\n");
 	  
 	  
-	}
+
 	  return 0;
 	}
 

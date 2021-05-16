@@ -1,7 +1,7 @@
     // the code calculates a DFT of a random complex number input and 
     // then an IDFT. The IDFT result should be the input vector 
     // to compile with gcc
-    // gcc -Wall -O2 -fopenmp -o DFTW_omp 3.DFTW_omp.c -lm 
+    // gcc -Wall -O2 -fopenmp -o DFTW DFTW.c 
     // written by stef
 
     // exercise
@@ -33,30 +33,6 @@
 
 
 	int main(int argc, char* argv[]){
-	
-	//Set the max number of threads
-	int maxthreads=32;
-	
-	for(int nc=1; nc <= maxthreads;nc++)
-	{
-	omp_set_num_threads(nc);
-	
-	// Define parameters for the timer
-  	int j,repeat;
-  	double totaltime,mean,std_dev,*t_e;
-	
-	
-	  // Start the outer loop
-          totaltime=0;
-          std_dev=0;
-          repeat=5;
-          t_e = (double*)malloc(repeat*sizeof(double));
-          printf("====================================================================\n");
-          printf("Results from multiple runs:\n");
-	  for (j=0;j<repeat;j++)
-  	  {
-	
-	
 	  // size of input array
 	  int N = 10000; // 8,000 is a good number for testing
 	  printf("DFTW calculation with N = %d \n",N);
@@ -76,10 +52,7 @@
 	  double* Xi_o = (double*) malloc (N *sizeof(double));
 	  setOutputZero(Xr_o,Xi_o,N);
       
-          
-          
-      
-          // start timer
+      // start timer
 	  double start_time = omp_get_wtime();
 	  
 
@@ -93,15 +66,8 @@
 
 	  // stop timer
 	  double run_time = omp_get_wtime() - start_time;
+	  printf("DFTW computation in %f seconds\n",run_time);
 	  
-	  totaltime+=run_time;
-	  t_e[j] = run_time;
-	
-	  
-	
-  	
-	printf("Iteration %d: DFTW computation in %f seconds\n",j, run_time);
-	    
 	  // check the results: easy to make correctness errors with openMP
 	  checkResults(xr,xi,xr_check,xi_check,Xr_o, Xi_o, N);
 	  // print the results of the DFT
@@ -113,37 +79,15 @@
 	  free(xr); free(xi);
 	  free(Xi_o); free(Xr_o);
 	  free(xr_check); free(xi_check);
-	  
-	  }
-	  
-	// Calculate the mean
-  	mean=totaltime/(float)repeat;
-        // Calculate the std deviation
-  	for (j=0;j<repeat;j++) {
-  	std_dev += sqrt(pow(t_e[j]-mean,2)/repeat);
-  	}
-	  
-	printf("====================================================================\n");
-  	printf("Experemintal performance stats:\n");
-  	printf("Number of threads: %d \n", nc);
-  	printf("Mean: %11.8f s \n", mean);
-  	printf("Std deviation: %11.8f s \n", std_dev);
-  	printf("====================================================================\n");
-	  
-	  
-	}
+
 	  return 0;
 	}
 
 	// DFT/IDFT routine
 	// idft: 1 direct DFT, -1 inverse IDFT (Inverse DFT)
 	int DFT(int idft, double* xr, double* xi, double* Xr_o, double* Xi_o, int N){
-	  #pragma omp parallel
-	  { 
-	  #pragma omp for
 	  for (int k=0 ; k<N ; k++)
 	    {
-	        
 	        for (int n=0 ; n<N ; n++)  {
 	        	// Real part of X[k]
 	            Xr_o[k] += xr[n] * cos(n * k * PI2 / N) + idft*xi[n]*sin(n * k * PI2 / N);
@@ -155,19 +99,17 @@
 	    
 	    // normalize if you are doing IDFT
 	    if (idft==-1){
-	        #pragma omp for
 	    	for (int n=0 ; n<N ; n++){
 	    	Xr_o[n] /=N;
 	    	Xi_o[n] /=N;
-	    }
 	    }
 	    }
 	  return 0; 
 	}
 	
 	// set the initial signal 
-        // be careful with this 
-        // rand() is NOT thread safe in case
+    // be careful with this 
+    // rand() is NOT thread safe in case
 	int fillInput(double* xr, double* xi, int N){
 	    srand(time(0));
 	    for(int n=0; n < 100000;n++) // get some random number first 

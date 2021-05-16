@@ -35,7 +35,7 @@
 	int main(int argc, char* argv[]){
 	
 	//Set the max number of threads
-	int maxthreads=32;
+	int maxthreads=2;
 	
 	for(int nc=1; nc <= maxthreads;nc++)
 	{
@@ -140,7 +140,7 @@
 	int DFT(int idft, double* xr, double* xi, double* Xr_o, double* Xi_o, int N){
 	  #pragma omp parallel
 	  { 
-	  #pragma omp for
+	  //#pragma omp for
 	  for (int k=0 ; k<N ; k++)
 	    {
 	        

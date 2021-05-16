@@ -35,7 +35,7 @@
 	int main(int argc, char* argv[]){
 	
 	//Set the max number of threads
-	int maxthreads=32;
+	int maxthreads=4;
 	
 	for(int nc=1; nc <= maxthreads;nc++)
 	{
