@@ -18,8 +18,8 @@
 	mpicc -DDEBUG mpi_matrix_multiply.c -lm
 */
  
-#define TRIALS 10 
-#define MSIZE 512
+#define TRIALS 1 
+#define MSIZE 2160
 
 // Define original matrix
 double matrix_a[MSIZE][MSIZE];
@@ -228,30 +228,22 @@ int main(int argc, char* argv[]){
   
   //Calculate a global average of each tile
   double  ave = 0.0;
-  double  maindiag=0.0;
   for (i = 0 ; i < Lsize ; i++) {
     for (j = 0 ; j < Lsize ; j++) {
       ave += C[i][j]/(double)(MSIZE*MSIZE);
-      if (i==j && cart_coords[0]==cart_coords[1]){
-        maindiag += C[i][j]/(double)(MSIZE*MSIZE);
-      }
     }
   }
   
   //Communicate the results and perform reduction
   double reduction_result = 0;
-  double reduction_diag = 0;
   int root_rank=rankprint;
   MPI_Reduce(&ave, &reduction_result, 1, MPI_DOUBLE, MPI_SUM, root_rank, MPI_COMM_WORLD);
-  MPI_Reduce(&maindiag, &reduction_diag, 1, MPI_DOUBLE, MPI_SUM, root_rank, MPI_COMM_WORLD);
-  
   
   int row, columns;
   //Pint the matrix
   if (rank==rankprint){
   	
   	printf("Entries average for it: %d = %8.6f \n", u, reduction_result);
-  	printf("sum diagonal for it: %d = %8.6f \n", u, reduction_diag);
  
 	stop_time = MPI_Wtime();
 	elapsed_time = elapsed_time + stop_time - start_time;

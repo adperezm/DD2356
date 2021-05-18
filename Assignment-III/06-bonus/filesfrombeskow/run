@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in 9 16 25 36 64 81 100 144 225 256
+do
+   srun -n $i ./a.out
+done
+

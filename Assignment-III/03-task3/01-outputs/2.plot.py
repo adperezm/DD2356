@@ -40,7 +40,7 @@ print("bandwidth="+repr(1/p[0]/1000000000)+" GB/s")
 print("========")
 
 fig, ax=plt.subplots()
-ax.plot(size,T,"ok", markersize=3)
+ax.plot(size,T,"ok", markersize=3,label='Intra-node Communication')
 ax.plot(interp,interp*p[0]+p[1],"--k", markersize=3)
 
 
@@ -64,14 +64,19 @@ print("For inter node communications:")
 print("Latency="+repr(p[1]/0.000001)+" ms")
 print("bandwidth="+repr(1/p[0]/1000000000)+" GB/s")
 
-ax.plot(size,T,"ob", markersize=3)
+ax.plot(size,T,"ob", markersize=3, label='Inter-node Communication')
 ax.plot(interp,interp*p[0]+p[1],"--b", markersize=3)
 
+
+
+ax.set_xlabel("Message Size [B]")
+ax.set_ylabel("Execution Time [s]")
+ax.legend()
 
 
 plt.show()
 
 
-fig.savefig("plot.pdf", bbox_inches='tight')
+fig.savefig("ex3-plot2.pdf", bbox_inches='tight')
 
 

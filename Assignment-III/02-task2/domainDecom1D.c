@@ -10,7 +10,7 @@ int main(int argc, char *argv[]){
     int rank, size, i, provided;
     
     // number of cells (global)
-    int nxc = 24; // make sure nxc is divisible by size
+    int nxc = 16; // make sure nxc is divisible by size
     double L = 2*3.1415; // Length of the domain
     int templ,tempr;
     
@@ -86,7 +86,7 @@ int main(int argc, char *argv[]){
     if (argc < 2) // no arguments were passed
     { 
       // Print f values
-      if (rank==1){ // print only rank 0 for convenience
+      if (rank==0){ // print only rank 0 for convenience
     
           printf("My rank %d of %d\n", rank, size );
           printf("Here are my values for dfdx-cos() including ghost cells\n");

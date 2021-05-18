@@ -19,7 +19,7 @@
 */
  
 #define TRIALS 10 
-#define MSIZE 512
+#define MSIZE 2048
 
 // Define original matrix
 double matrix_a[MSIZE][MSIZE];
@@ -43,7 +43,7 @@ int main(int argc, char* argv[]){
     int rank, size, provided;
     
     int i, j, k ;
-    int rankprint=0;
+    int rankprint=3;
     
     for (i = 0 ; i < MSIZE ; i++) {
       for (j = 0 ; j < MSIZE ; j++) {
@@ -57,6 +57,10 @@ int main(int argc, char* argv[]){
         
     //Initialize mpi
     MPI_Init_thread(&argc, &argv, MPI_THREAD_SINGLE, &provided);
+
+    //Variables for the timer
+    double start_time, stop_time, elapsed_time;
+    start_time = MPI_Wtime();
 
     //Call useful functions
     MPI_Comm_size(MPI_COMM_WORLD, &size);
@@ -138,23 +142,6 @@ int main(int argc, char* argv[]){
     }
 #endif 	    
  
- 
-    //Variables for the timer
-    double start_time, stop_time, elapsed_time;
-    elapsed_time=0;
-    
-    if (rank==rankprint){
-      printf("============================================\n");
-      printf("Number of MPI Processes: %d\n", size);
-      printf("Number of entries: %d\n",MSIZE*MSIZE);
-      printf("============================================\n");
-    }
-    
-    // Iterate for verification
-    for (int u=1;u<=TRIALS;u++){
-    
-    start_time = MPI_Wtime(); 
-    
     // ===================== Implement the Algorithm ========================
  
     //Create local matrices to divide
@@ -228,44 +215,28 @@ int main(int argc, char* argv[]){
   
   //Calculate a global average of each tile
   double  ave = 0.0;
-  double  maindiag=0.0;
   for (i = 0 ; i < Lsize ; i++) {
     for (j = 0 ; j < Lsize ; j++) {
       ave += C[i][j]/(double)(MSIZE*MSIZE);
-      if (i==j && cart_coords[0]==cart_coords[1]){
-        maindiag += C[i][j]/(double)(MSIZE*MSIZE);
-      }
     }
   }
   
   //Communicate the results and perform reduction
   double reduction_result = 0;
-  double reduction_diag = 0;
   int root_rank=rankprint;
   MPI_Reduce(&ave, &reduction_result, 1, MPI_DOUBLE, MPI_SUM, root_rank, MPI_COMM_WORLD);
-  MPI_Reduce(&maindiag, &reduction_diag, 1, MPI_DOUBLE, MPI_SUM, root_rank, MPI_COMM_WORLD);
-  
   
   int row, columns;
   //Pint the matrix
   if (rank==rankprint){
   	
-  	printf("Entries average for it: %d = %8.6f \n", u, reduction_result);
-  	printf("sum diagonal for it: %d = %8.6f \n", u, reduction_diag);
+  	printf("average = %8.6f \n", reduction_result);
  
 	stop_time = MPI_Wtime();
-	elapsed_time = elapsed_time + stop_time - start_time;
+	elapsed_time = stop_time - start_time;
     	
-    	printf("Execution time if it %d: %f seconds\n", u, stop_time - start_time);
+    	printf("Execution time: %f seconds\n", elapsed_time);
   }
-  
-  }
-  
-  if (rank==rankprint){
-  	printf("============================================\n");
-    	printf("Average execution time: %f seconds\n", elapsed_time/TRIALS);
-  }
-  
  
       MPI_Finalize();
 

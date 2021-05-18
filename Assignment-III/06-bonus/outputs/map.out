@@ -1,0 +1,26 @@
+============================================
+Number of MPI Processes: 256
+Number of entries: 4665600
+============================================
+Entries average for it: 1 = 539.988694 
+Execution time if it 1: 0.327981 seconds
+Entries average for it: 2 = 539.988694 
+Execution time if it 2: 0.284179 seconds
+Entries average for it: 3 = 539.988694 
+Execution time if it 3: 0.237310 seconds
+Entries average for it: 4 = 539.988694 
+Execution time if it 4: 0.266810 seconds
+Entries average for it: 5 = 539.988694 
+Execution time if it 5: 0.268383 seconds
+Entries average for it: 6 = 539.988694 
+Execution time if it 6: 0.248584 seconds
+Entries average for it: 7 = 539.988694 
+Execution time if it 7: 0.236915 seconds
+Entries average for it: 8 = 539.988694 
+Execution time if it 8: 0.237302 seconds
+Entries average for it: 9 = 539.988694 
+Execution time if it 9: 0.236931 seconds
+Entries average for it: 10 = 539.988694 
+Execution time if it 10: 0.239674 seconds
+============================================
+Average execution time: 0.258407 seconds

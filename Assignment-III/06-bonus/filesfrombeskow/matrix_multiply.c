@@ -4,7 +4,7 @@
 #include <sys/time.h>
  
 #define TRIALS 10 
-#define MSIZE 512
+#define MSIZE 2160
 
 double matrix_a[MSIZE][MSIZE];
 double matrix_b[MSIZE][MSIZE];
@@ -43,17 +43,12 @@ int main(int argc, char* argv[]){
   t2 = mysecond();    
   
   double  ave = 0.0;
-  double  diag = 0.0;
   for (i = 0 ; i < MSIZE ; i++) {
     for (j = 0 ; j < MSIZE ; j++) {
       ave += matrix_c[i][j]/(double)(MSIZE*MSIZE);
-      if (i==j){
-        diag += matrix_c[i][j]/(double)(MSIZE*MSIZE);
-      }
     }
   }
-  printf("average = %8.6f \n", ave);
-  printf("diag = %8.6f \n", diag);     
+  printf("average = %8.6f \n", ave);     
   printf("Execution time = %f\n", (t2 - t1));
   /*
  	int row,columns;

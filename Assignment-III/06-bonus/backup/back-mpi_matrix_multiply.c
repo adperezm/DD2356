@@ -18,7 +18,7 @@
 */
  
 #define TRIALS 10 
-#define MSIZE 1024
+#define MSIZE 1080
 
 // Define original matrix
 double matrix_a[MSIZE][MSIZE];

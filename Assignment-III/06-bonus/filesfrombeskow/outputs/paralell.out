@@ -1,0 +1,260 @@
+============================================
+Number of MPI Processes: 9
+Number of entries: 4665600
+============================================
+Entries average for it: 1 = 539.988694 
+Execution time if it 1: 6.725133 seconds
+Entries average for it: 2 = 539.988694 
+Execution time if it 2: 6.669132 seconds
+Entries average for it: 3 = 539.988694 
+Execution time if it 3: 6.710003 seconds
+Entries average for it: 4 = 539.988694 
+Execution time if it 4: 6.665783 seconds
+Entries average for it: 5 = 539.988694 
+Execution time if it 5: 6.650735 seconds
+Entries average for it: 6 = 539.988694 
+Execution time if it 6: 6.668609 seconds
+Entries average for it: 7 = 539.988694 
+Execution time if it 7: 6.667071 seconds
+Entries average for it: 8 = 539.988694 
+Execution time if it 8: 6.672036 seconds
+Entries average for it: 9 = 539.988694 
+Execution time if it 9: 6.685129 seconds
+Entries average for it: 10 = 539.988694 
+Execution time if it 10: 6.653400 seconds
+============================================
+Average execution time: 6.676703 seconds
+============================================
+Number of MPI Processes: 16
+Number of entries: 4665600
+============================================
+Entries average for it: 1 = 539.988694 
+Execution time if it 1: 3.958373 seconds
+Entries average for it: 2 = 539.988694 
+Execution time if it 2: 3.912495 seconds
+Entries average for it: 3 = 539.988694 
+Execution time if it 3: 3.914570 seconds
+Entries average for it: 4 = 539.988694 
+Execution time if it 4: 3.914027 seconds
+Entries average for it: 5 = 539.988694 
+Execution time if it 5: 3.902622 seconds
+Entries average for it: 6 = 539.988694 
+Execution time if it 6: 3.916108 seconds
+Entries average for it: 7 = 539.988694 
+Execution time if it 7: 3.907075 seconds
+Entries average for it: 8 = 539.988694 
+Execution time if it 8: 3.917897 seconds
+Entries average for it: 9 = 539.988694 
+Execution time if it 9: 3.946035 seconds
+Entries average for it: 10 = 539.988694 
+Execution time if it 10: 3.935426 seconds
+============================================
+Average execution time: 3.922463 seconds
+============================================
+Number of MPI Processes: 25
+Number of entries: 4665600
+============================================
+Entries average for it: 1 = 539.988694 
+Execution time if it 1: 2.911662 seconds
+Entries average for it: 2 = 539.988694 
+Execution time if it 2: 2.409521 seconds
+Entries average for it: 3 = 539.988694 
+Execution time if it 3: 2.380252 seconds
+Entries average for it: 4 = 539.988694 
+Execution time if it 4: 2.397506 seconds
+Entries average for it: 5 = 539.988694 
+Execution time if it 5: 2.395438 seconds
+Entries average for it: 6 = 539.988694 
+Execution time if it 6: 2.382245 seconds
+Entries average for it: 7 = 539.988694 
+Execution time if it 7: 2.403458 seconds
+Entries average for it: 8 = 539.988694 
+Execution time if it 8: 2.367747 seconds
+Entries average for it: 9 = 539.988694 
+Execution time if it 9: 2.375721 seconds
+Entries average for it: 10 = 539.988694 
+Execution time if it 10: 2.415490 seconds
+============================================
+Average execution time: 2.443904 seconds
+============================================
+Number of MPI Processes: 36
+Number of entries: 4665600
+============================================
+Entries average for it: 1 = 539.988694 
+Execution time if it 1: 1.889451 seconds
+Entries average for it: 2 = 539.988694 
+Execution time if it 2: 1.736366 seconds
+Entries average for it: 3 = 539.988694 
+Execution time if it 3: 1.569085 seconds
+Entries average for it: 4 = 539.988694 
+Execution time if it 4: 1.575646 seconds
+Entries average for it: 5 = 539.988694 
+Execution time if it 5: 1.562185 seconds
+Entries average for it: 6 = 539.988694 
+Execution time if it 6: 1.565648 seconds
+Entries average for it: 7 = 539.988694 
+Execution time if it 7: 1.581835 seconds
+Entries average for it: 8 = 539.988694 
+Execution time if it 8: 1.574303 seconds
+Entries average for it: 9 = 539.988694 
+Execution time if it 9: 1.585132 seconds
+Entries average for it: 10 = 539.988694 
+Execution time if it 10: 1.562909 seconds
+============================================
+Average execution time: 1.620256 seconds
+============================================
+Number of MPI Processes: 64
+Number of entries: 4665600
+============================================
+Entries average for it: 1 = 539.988694 
+Execution time if it 1: 1.163194 seconds
+Entries average for it: 2 = 539.988694 
+Execution time if it 2: 1.140938 seconds
+Entries average for it: 3 = 539.988694 
+Execution time if it 3: 1.035620 seconds
+Entries average for it: 4 = 539.988694 
+Execution time if it 4: 1.019903 seconds
+Entries average for it: 5 = 539.988694 
+Execution time if it 5: 1.005752 seconds
+Entries average for it: 6 = 539.988694 
+Execution time if it 6: 1.008786 seconds
+Entries average for it: 7 = 539.988694 
+Execution time if it 7: 1.006761 seconds
+Entries average for it: 8 = 539.988694 
+Execution time if it 8: 1.002681 seconds
+Entries average for it: 9 = 539.988694 
+Execution time if it 9: 1.010224 seconds
+Entries average for it: 10 = 539.988694 
+Execution time if it 10: 0.999067 seconds
+============================================
+Average execution time: 1.039293 seconds
+============================================
+Number of MPI Processes: 81
+Number of entries: 4665600
+============================================
+Entries average for it: 1 = 539.988694 
+Execution time if it 1: 0.788478 seconds
+Entries average for it: 2 = 539.988694 
+Execution time if it 2: 0.782657 seconds
+Entries average for it: 3 = 539.988694 
+Execution time if it 3: 0.821113 seconds
+Entries average for it: 4 = 539.988694 
+Execution time if it 4: 0.801267 seconds
+Entries average for it: 5 = 539.988694 
+Execution time if it 5: 0.783999 seconds
+Entries average for it: 6 = 539.988694 
+Execution time if it 6: 0.778378 seconds
+Entries average for it: 7 = 539.988694 
+Execution time if it 7: 0.782912 seconds
+Entries average for it: 8 = 539.988694 
+Execution time if it 8: 0.795607 seconds
+Entries average for it: 9 = 539.988694 
+Execution time if it 9: 0.801941 seconds
+Entries average for it: 10 = 539.988694 
+Execution time if it 10: 0.779965 seconds
+============================================
+Average execution time: 0.791632 seconds
+============================================
+Number of MPI Processes: 100
+Number of entries: 4665600
+============================================
+Entries average for it: 1 = 539.988694 
+Execution time if it 1: 0.640167 seconds
+Entries average for it: 2 = 539.988694 
+Execution time if it 2: 0.623385 seconds
+Entries average for it: 3 = 539.988694 
+Execution time if it 3: 0.620494 seconds
+Entries average for it: 4 = 539.988694 
+Execution time if it 4: 0.704628 seconds
+Entries average for it: 5 = 539.988694 
+Execution time if it 5: 0.648333 seconds
+Entries average for it: 6 = 539.988694 
+Execution time if it 6: 0.627879 seconds
+Entries average for it: 7 = 539.988694 
+Execution time if it 7: 0.623351 seconds
+Entries average for it: 8 = 539.988694 
+Execution time if it 8: 0.620505 seconds
+Entries average for it: 9 = 539.988694 
+Execution time if it 9: 0.621882 seconds
+Entries average for it: 10 = 539.988694 
+Execution time if it 10: 0.655023 seconds
+============================================
+Average execution time: 0.638565 seconds
+============================================
+Number of MPI Processes: 144
+Number of entries: 4665600
+============================================
+Entries average for it: 1 = 539.988694 
+Execution time if it 1: 0.472295 seconds
+Entries average for it: 2 = 539.988694 
+Execution time if it 2: 0.447925 seconds
+Entries average for it: 3 = 539.988694 
+Execution time if it 3: 0.422185 seconds
+Entries average for it: 4 = 539.988694 
+Execution time if it 4: 0.419473 seconds
+Entries average for it: 5 = 539.988694 
+Execution time if it 5: 0.418883 seconds
+Entries average for it: 6 = 539.988694 
+Execution time if it 6: 0.424468 seconds
+Entries average for it: 7 = 539.988694 
+Execution time if it 7: 0.426091 seconds
+Entries average for it: 8 = 539.988694 
+Execution time if it 8: 0.427329 seconds
+Entries average for it: 9 = 539.988694 
+Execution time if it 9: 0.445591 seconds
+Entries average for it: 10 = 539.988694 
+Execution time if it 10: 0.437586 seconds
+============================================
+Average execution time: 0.434183 seconds
+============================================
+Number of MPI Processes: 225
+Number of entries: 4665600
+============================================
+Entries average for it: 1 = 539.988694 
+Execution time if it 1: 0.547534 seconds
+Entries average for it: 2 = 539.988694 
+Execution time if it 2: 0.540245 seconds
+Entries average for it: 3 = 539.988694 
+Execution time if it 3: 0.402365 seconds
+Entries average for it: 4 = 539.988694 
+Execution time if it 4: 0.260095 seconds
+Entries average for it: 5 = 539.988694 
+Execution time if it 5: 0.260210 seconds
+Entries average for it: 6 = 539.988694 
+Execution time if it 6: 0.262070 seconds
+Entries average for it: 7 = 539.988694 
+Execution time if it 7: 0.265513 seconds
+Entries average for it: 8 = 539.988694 
+Execution time if it 8: 0.260959 seconds
+Entries average for it: 9 = 539.988694 
+Execution time if it 9: 0.261195 seconds
+Entries average for it: 10 = 539.988694 
+Execution time if it 10: 0.261212 seconds
+============================================
+Average execution time: 0.332140 seconds
+============================================
+Number of MPI Processes: 256
+Number of entries: 4665600
+============================================
+Entries average for it: 1 = 539.988694 
+Execution time if it 1: 0.230050 seconds
+Entries average for it: 2 = 539.988694 
+Execution time if it 2: 0.237397 seconds
+Entries average for it: 3 = 539.988694 
+Execution time if it 3: 0.329783 seconds
+Entries average for it: 4 = 539.988694 
+Execution time if it 4: 0.236211 seconds
+Entries average for it: 5 = 539.988694 
+Execution time if it 5: 0.242851 seconds
+Entries average for it: 6 = 539.988694 
+Execution time if it 6: 0.313241 seconds
+Entries average for it: 7 = 539.988694 
+Execution time if it 7: 0.242843 seconds
+Entries average for it: 8 = 539.988694 
+Execution time if it 8: 0.235051 seconds
+Entries average for it: 9 = 539.988694 
+Execution time if it 9: 0.234981 seconds
+Entries average for it: 10 = 539.988694 
+Execution time if it 10: 0.235197 seconds
+============================================
+Average execution time: 0.253761 seconds
