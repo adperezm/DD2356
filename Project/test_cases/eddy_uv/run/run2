@@ -1,0 +1,11 @@
+#!/bin/bash
+
+./fake.sh
+
+
+
+for i in 1 2 4 8 12 16 24 32 64 96 128 160 192 224 256 
+do
+   map --profile srun -n $i ./nek5000 &> outputs2/ouput_process_$i.out
+done
+

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+./fake.sh
+
+
+for i in 16 
+do
+   map --profile srun -n $i ./nek5000 &> outputs2/ouput_process_$i.out
+done
+

@@ -1,0 +1,14 @@
+Having lots of trouble compiling with intel on beskow.
+
+For this particular case, I am using the following comands:
+
+module swap PrgEnv-cray PrgEnv-gnu
+module load allinea-forge/20.0.3
+
+
+This loads the gnu enviroment and also loads the profiler.
+
+Remeber to compile using the following compiler flags:
+
+-g for debugging info
+-lmap-sampler to link arm map

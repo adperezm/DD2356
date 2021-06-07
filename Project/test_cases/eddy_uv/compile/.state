@@ -1,0 +1,9 @@
+NEK_SOURCE_ROOT=/cfs/klemming/nobackup/a/adperez/eddy_uv/compile/../../KTH_Framework/Nek5000
+FC=ftn
+FFLAGS=-g -lmap-sampler
+FCPP=-fpp
+FR8=-r8 -fpconstant
+FF77=
+CC=cc -D_Float128=__float128
+CFLAGS=-g -lmap-sampler
+PPLIST= MPI UNDERSCORE GLOBAL_LONG_LONG TIMER
